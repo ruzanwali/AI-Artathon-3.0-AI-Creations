@@ -5,9 +5,14 @@ This is the first stage submission for AI Artathon 2.0
 AI Creations
 
 
+## Team Members:
+1. Ruzan Wali
+2. Fatimah Mohammed
+3. Ahmad Sami
+
+
 ## Project Name:
 AI Reflections
-
 
 
 ## Project Brief Description:
@@ -26,12 +31,12 @@ The interactive AI art in this project is how the 3D object can be moved using t
 
 ## Project Technologies Description:
 ML libraries/modules:
-• Numpy module: to know the dimensions of the body and 3D object (height, width, depth).
-• OpenCV library: to recognize the human body parts.
-• Mediapipe module: for building multimodal between video, image, and audio.
-• time Library: to Adjusts video quality per second operations
-• stackImages module: to combine photos or videos besides each other.
-• pyOSC(Open Sound Control) module: to communicate between the human body movements and 3D object movements.
+* Numpy module: to know the dimensions of the body and 3D object (height, width, depth).
+* OpenCV library: to recognize the human body parts.
+* Mediapipe module: for building multimodal between video, image, and audio.
+* time Library: to Adjusts video quality per second operations
+* stackImages module: to combine photos or videos besides each other.
+* pyOSC(Open Sound Control) module: to communicate between the human body movements and 3D object movements.
 
   
 ## Project Image:
@@ -41,24 +46,10 @@ ML libraries/modules:
 ## Project Video:
 
 
-
-
-
+[AI Reflections](https://youtu.be/1BQKVpmjb6E)
 
 https://user-images.githubusercontent.com/85820553/138391427-334e01db-590c-4ae8-bd95-d8b9adb08711.mp4
 
 
-  
-## Project Art Description:
-The following resources were used: 
-* Photographs: can be found [here](https://drive.google.com/drive/u/1/folders/1o2ShYa1U4qjATmA9Y2FMeLqX-Ft29E1R)
-* Code: 
-  * [Music Generation](https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb)
-  * [Photos styling](https://colab.research.google.com/github/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb)
-  * [3D transfer](https://colab.research.google.com/drive/17r1_L2vuiAAgAUIuhFlBOL7XqOR1Rbuv?usp=sharing)
-
-
-## Contributors
-1. Abdullah Albannay
-2. Dana Alkhatti
-3. Deema Alkhaldi
+## Future Plan:
+we are planning to use py
