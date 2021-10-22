@@ -52,4 +52,6 @@ https://user-images.githubusercontent.com/85820553/138391427-334e01db-590c-4ae8-
 
 
 ## Future Plan:
-we are planning to use py
+After we pass the 1st stage, we are planning to use pyOSC(Open Sound Control) to communicate between the human and 3D object to mirror/reflect the human movments to the 3D object.
+
+
